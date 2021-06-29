@@ -1,3 +1,4 @@
 const path = require('path')
 
-console.log('a')
+console.log('1')
+console.log('2')
